@@ -1,16 +1,83 @@
-# React + Vite
+# ✨ Karwan-e-Mesam — Spiritual Travel & Ziyarat Platform
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Karwan-e-Mesam is a modern, premium, and fully responsive Islamic travel website built for providing luxury Ziyarat, Umrah, and spiritual journey services.
 
-Currently, two official plugins are available:
+The platform is specially designed with cinematic UI/UX, smooth animations, modern layouts, and a deeply spiritual visual identity to deliver a next-level user experience.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+# 🌍 Live Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+✅ Premium Hero Section  
+✅ Interactive Spiritual Destinations  
+✅ Real-Time Departure Boards  
+✅ Animated Counters  
+✅ WhatsApp Direct Booking  
+✅ Fully Responsive Design  
+✅ Framer Motion Animations  
+✅ Luxury Islamic Theme  
+✅ Light Theme Modern UI  
+✅ Mobile Optimized Experience  
+✅ Professional CTA Sections  
+✅ Modern Card Layouts  
+✅ Dynamic Route Presentation  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# 🕋 Main Travel Services
+
+- Iraq Ziyarat Packages
+- Karbala Tours
+- Najaf Tours
+- Kazmain Tours
+- Samarra Tours
+- Iran Ziyarat
+- Umrah Packages
+- Spiritual Group Tours
+
+---
+
+# ⚡ Tech Stack
+
+## Frontend
+- React.js
+- Tailwind CSS
+- Framer Motion
+
+## Icons
+- Lucide React
+
+## Deployment
+- Vercel
+
+---
+
+# 🎨 Design Philosophy
+
+Karwan-e-Mesam follows a premium spiritual design language inspired by:
+
+- Islamic elegance
+- Luxury travel aesthetics
+- Modern airport terminal interfaces
+- Cinematic lighting
+- Minimal yet emotional UI experiences
+
+---
+
+# 📱 Responsive Support
+
+The website is fully optimized for:
+
+- Mobile Devices
+- Tablets
+- Laptops
+- Large Screens
+
+---
+
+# 🚀 Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/your-username/karwan-e-mesam.git
