@@ -1,5 +1,5 @@
 import { useEffect, useRef, useState } from "react";
-import bgVideo from "../../assets/videos/hero.mp4";
+import bgVideo from "../../assets/videos/hero2.mp4";
 import { Button } from "../ui/button";
 import { Phone, MessageCircle } from "lucide-react";
 import { toast } from "sonner";

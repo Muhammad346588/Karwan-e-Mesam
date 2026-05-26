@@ -145,7 +145,7 @@ const Footer = () => {
                   href="mailto:info@karwanemesam.com"
                   className="hover:text-emerald-400 transition"
                 >
-                  info@karwanemesam.com
+                  karwanemesam6@gmail.com
                 </a>
               </div>
 
