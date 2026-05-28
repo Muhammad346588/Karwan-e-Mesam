@@ -91,7 +91,7 @@ Please provide full details.
 
       <div className="container-custom relative z-10 text-center mb-16">
         <span className="inline-flex items-center gap-2 bg-red-100 text-red-600 px-4 py-2 rounded-full text-sm font-semibold">
-          🔥 Ashura Special 2026
+          🔥 Arbaeen Special 2026
         </span>
 
         <h2 className="mt-5 text-4xl md:text-6xl font-bold heading-font text-slate-900 leading-tight">
@@ -99,8 +99,8 @@ Please provide full details.
         </h2>
 
         <p className="mt-4 text-slate-600 max-w-2xl mx-auto text-sm md:text-base leading-relaxed">
-          Departure on <span className="font-bold text-red-600">16 June</span>.
-          Limited seats available for Ashura Group. Experience a peaceful
+          Departure: <span className="font-bold text-emerald-600">Coming Soon (Announcing Shortly)</span>
+          Limited seats available for Arbaeen 2026 Group. Experience a peaceful
           spiritual journey with complete comfort, guidance & premium services.
         </p>
       </div>
