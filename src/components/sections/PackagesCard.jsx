@@ -40,7 +40,7 @@ const PackagesCard = ({ activeCategory }) => {
       duration: "22 Days",
       price: "$1,650",
       hasGroundOption: true,
-      groundPrice: "$750",
+      groundPrice: "$1200",
       lastBookingDate: "August 15, 2026",
       badge: "Grand Ziyarat",
       stayDetail1: "Mashhad & Qom Luxury Stay",
