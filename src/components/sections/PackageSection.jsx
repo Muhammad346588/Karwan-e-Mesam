@@ -69,9 +69,9 @@ Please provide full details.
 
       subtitle: "Iraq Ground Pakckage",
 
-      price: "$1700",
+      price: "$1000",
 
-      ground: "$850",
+      ground: "$1000",
 
       color: "from-purple-600 to-pink-500",
 
