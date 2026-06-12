@@ -41,9 +41,9 @@ Please provide full details.
 
       subtitle: "Most Booked",
 
-      price: "$1300",
+      price: "$1450",
 
-      ground: "$550",
+      ground: "$1000",
 
       color: "from-emerald-600 to-teal-500",
 
@@ -55,9 +55,9 @@ Please provide full details.
 
       subtitle: "Premium Choice",
 
-      price: "$1500",
+      price: "$1650",
 
-      ground: "$750",
+      ground: "$1200",
 
       color: "from-blue-600 to-cyan-500",
 
@@ -67,7 +67,7 @@ Please provide full details.
     {
       title: "Package 3",
 
-      subtitle: "VIP Luxury",
+      subtitle: "Iraq Ground Pakckage",
 
       price: "$1700",
 
@@ -99,7 +99,10 @@ Please provide full details.
         </h2>
 
         <p className="mt-4 text-slate-600 max-w-2xl mx-auto text-sm md:text-base leading-relaxed">
-          Departure: <span className="font-bold text-emerald-600">Coming Soon (Announcing Shortly)</span>
+          Departure:{" "}
+          <span className="font-bold text-emerald-600">
+            Coming Soon (Announcing Shortly)
+          </span>
           Limited seats available for Arbaeen 2026 Group. Experience a peaceful
           spiritual journey with complete comfort, guidance & premium services.
         </p>
