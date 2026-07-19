@@ -37,11 +37,11 @@ Please provide full details.
 
   const packages = [
     {
-      title: "Package 1",
+      title: "Iraq By Air",
 
       subtitle: "Most Booked",
 
-      price: "$1450",
+      price: "$1350",
 
       ground: "$1000",
 
@@ -51,11 +51,11 @@ Please provide full details.
     },
 
     {
-      title: "Package 2",
+      title: "Iran + Iraq By Air",
 
       subtitle: "Premium Choice",
 
-      price: "$1650",
+      price: "$1450",
 
       ground: "$1200",
 
@@ -65,7 +65,7 @@ Please provide full details.
     },
 
     {
-      title: "Package 3",
+      title: "Iraq Ground Packages",
 
       subtitle: "Iraq Ground Pakckage",
 
@@ -91,7 +91,7 @@ Please provide full details.
 
       <div className="container-custom relative z-10 text-center mb-16">
         <span className="inline-flex items-center gap-2 bg-red-100 text-red-600 px-4 py-2 rounded-full text-sm font-semibold">
-          🔥 Arbaeen Special 2026
+          🔥 Rabi Ul Awal 2026
         </span>
 
         <h2 className="mt-5 text-4xl md:text-6xl font-bold heading-font text-slate-900 leading-tight">
